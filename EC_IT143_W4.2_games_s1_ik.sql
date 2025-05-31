@@ -1,0 +1,1 @@
+-- Q: What is the total global sales per platform?

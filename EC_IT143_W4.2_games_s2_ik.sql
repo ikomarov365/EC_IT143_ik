@@ -1,0 +1,3 @@
+-- Q: What is the total global sales per platform?
+-- A: I will group the video game sales by platform and sum the Global_Sales.
+-- This will help identify which gaming platforms performed the best overall.
