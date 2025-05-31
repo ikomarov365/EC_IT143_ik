@@ -1,0 +1,3 @@
+-- What is the total online marketing spend per month?
+-- First, I need to extract the month and sum the Online_Spend values grouped by month.
+-- I’ll check how the Date column is stored, then write a query that aggregates the data.
