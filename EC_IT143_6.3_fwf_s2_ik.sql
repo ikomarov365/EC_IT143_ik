@@ -1,0 +1,2 @@
+-- I think I can use LEFT() and CHARINDEX() to pull the first name.
+-- First name is the part of ContactName before the first space.
